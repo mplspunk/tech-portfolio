@@ -19,8 +19,8 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Graduate Student in Computer Science @ Georgia Tech
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+- 2020 Linux Foundation Training (LiFT) Scholarship - Women in Open Source
