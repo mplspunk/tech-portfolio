@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Christine Rehm', // Title for your website.
-    tagline: 'Lover of data, cloud, and privacy.',
+    tagline: 'Building (and dreaming) in the cloud.',
     profilePhoto: 'img/profile.png',
     url: 'https://mplspunk.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
