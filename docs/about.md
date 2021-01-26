@@ -3,23 +3,17 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Hi there!
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+My name is Chris. Here's a little bit about me.
 
-Write it in first (I) or third (Your Name Here) person.
+Experienced business analyst and data analyst in the area of Technology & Risk, focusing mainly on data privacy issues. Comfortable programming in Python, R, and Java. In a nutshell, I love to build things, and integrate privacy considerations into the design from the start. 
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+> Privacy vs. Transparency. Here's my [data trail](https://api.github.com/users/mplspunk/events/public).
 
 ## Current Role
 
-Graduate Student in Computer Science @ Georgia Tech
+Grad Student in Computer Science @ Georgia Tech
 
 ## Recognition
 
