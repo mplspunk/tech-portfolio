@@ -3,13 +3,13 @@ id: about
 title: About
 ---
 
-Hi there!
+Hi there! :wave:
 
 My name is Chris. Here's a little bit about me.
 
-Experienced business analyst and data analyst in the area of Technology & Risk, focusing mainly on data privacy issues. Comfortable programming in Python, R, and Java. In a nutshell, I love to build things, and integrate privacy considerations into the design from the start. 
+I'm an experienced business analyst and data analyst in the area of Technology & Risk, focusing mainly on data privacy issues. I'm comfortable programming in Python, R, and Java. In a nutshell, I love to build things, and integrate privacy considerations into the design from the start. 
 
-> Privacy vs. Transparency. Here's my [data trail](https://api.github.com/users/mplspunk/events/public).
+> Privacy vs. Transparency. Here's my [data trail](https://api.github.com/users/mplspunk/events/public). :point_left:
 
 ## Current Role
 
