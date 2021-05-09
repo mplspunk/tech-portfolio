@@ -7,9 +7,9 @@ Hi there!
 
 My name is Chris. Here's a little bit about me.
 
-I'm an experienced business analyst and data analyst in the area of Technology & Risk, focusing mainly on data privacy issues. I'm comfortable programming in Python, R, and Java. In a nutshell, I love to build things, and integrate privacy considerations into the design from the start. 
+I work as a Privacy Engineer at a tech company. I'm comfortable programming in Python, R, and Java. In a nutshell, I love to build things, and integrate data privacy considerations into the product design from the start. 
 
-> Privacy vs. Transparency. Here's my [data trail](https://api.github.com/users/mplspunk/events/public).
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done." ― Alan Turing
 
 ## Current Role
 
