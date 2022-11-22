@@ -18,3 +18,4 @@ Grad Student in Computer Science @ Georgia Tech
 ## Recognition
 
 - 2020 Linux Foundation Training (LiFT) Scholarship - Women in Open Source
+- 10x AWS Certified
