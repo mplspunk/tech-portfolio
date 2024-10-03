@@ -14,6 +14,9 @@ jobs:
       image: joatmon08/tech-portfolio
     steps:
     - uses: actions/checkout@v2
+    - name: Install GLIBC (libc6) dependency
+      run: |
+          apt-get update && apt-get install -y libc6
     - name: Install dependencies and static website
       run: |
         cd website
