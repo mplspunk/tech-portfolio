@@ -11,12 +11,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: joatmon08/tech-portfolio
+      image: node:lts
     steps:
     - uses: actions/checkout@v3
-    - name: Install GLIBC (libc6) dependency
+    - name: Copy publish.sh script
       run: |
-          apt-get update && apt-get install -y libc6
+          cp ./publish.sh /usr/local/bin
     - name: Install dependencies and static website
       run: |
         cd website
