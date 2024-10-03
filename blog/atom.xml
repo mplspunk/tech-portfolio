@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mplspunk.github.io/tech-portfolio/blog</id>
+    <title>Christine Rehm Blog</title>
+    <updated>2021-01-26T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mplspunk.github.io/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Christine Rehm news and events.</subtitle>
+    <logo>https://mplspunk.github.io/tech-portfolio/undefined</logo>
+    <rights>Copyright © 2024</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello world!]]></title>
+        <id>https://mplspunk.github.io/tech-portfolio/blog/2021/01/26/blog-post.html</id>
+        <link href="https://mplspunk.github.io/tech-portfolio/blog/2021/01/26/blog-post.html"/>
+        <updated>2021-01-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Welcome to my GitHub portfolio blog.</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add a new post title]]></title>
+        <id>https://mplspunk.github.io/tech-portfolio/blog/2020/10/03/blog-template.html</id>
+        <link href="https://mplspunk.github.io/tech-portfolio/blog/2020/10/03/blog-template.html"/>
+        <updated>2020-10-03T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Add text for a new blog post.</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>

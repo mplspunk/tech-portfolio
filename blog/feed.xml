@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Christine Rehm Blog</title>
+        <link>https://mplspunk.github.io/tech-portfolio/blog</link>
+        <description>The best place to stay up-to-date with the latest Christine Rehm news and events.</description>
+        <lastBuildDate>Tue, 26 Jan 2021 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Christine Rehm Blog</title>
+            <url>https://mplspunk.github.io/tech-portfolio/undefined</url>
+            <link>https://mplspunk.github.io/tech-portfolio/blog</link>
+        </image>
+        <copyright>Copyright © 2024</copyright>
+        <item>
+            <title><![CDATA[Hello world!]]></title>
+            <link>https://mplspunk.github.io/tech-portfolio/blog/2021/01/26/blog-post.html</link>
+            <guid>https://mplspunk.github.io/tech-portfolio/blog/2021/01/26/blog-post.html</guid>
+            <pubDate>Tue, 26 Jan 2021 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Welcome to my GitHub portfolio blog.</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Add a new post title]]></title>
+            <link>https://mplspunk.github.io/tech-portfolio/blog/2020/10/03/blog-template.html</link>
+            <guid>https://mplspunk.github.io/tech-portfolio/blog/2020/10/03/blog-template.html</guid>
+            <pubDate>Sat, 03 Oct 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Add text for a new blog post.</p> ]]></description>
+        </item>
+    </channel>
+</rss>
